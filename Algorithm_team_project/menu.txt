@@ -1,0 +1,24 @@
+menu_num = 1
+menu_name=아이스아메리카노
+processes=process101,process103,process201
+
+menu_num = 2
+menu_name=핫아메리카노
+processes=process101,process103,process203
+
+menu_num = 3
+menu_name=아이스카페라떼
+processes=process101,process103,process202
+
+menu_num = 4
+menu_name=핫카페라떼
+processes=process101,process103,process204
+
+menu_num = 5
+menu_name=아이스바닐라라떼
+processes=process101,process103,process202
+
+menu_num = 6
+menu_name=핫바닐라라떼
+processes=process101,process103,process204
+
